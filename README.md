@@ -1,2 +1,3 @@
-# SC_302_Documentacion_VN_Ricardo_Patino
-Proyecto de github
+**alert("hola mundo_editado"); 
+Console.log(“cambios en el archivo”);
+
